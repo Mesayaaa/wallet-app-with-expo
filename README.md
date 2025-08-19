@@ -2,9 +2,9 @@
 
 ![Demo App](/mobile/assets/images/screenshot-for-readme.png)
 
-## 🎯 What You'll Build
+## 🎯 What is it
 
-This isn't just a front-end app — it's a **complete mobile application** with backend integration, authentication, and cloud-based storage.
+This isn't just a front-end app — it's a **complete mobile application** WALLET APP with backend integration, authentication, and cloud-based storage.
 
 ---
 
