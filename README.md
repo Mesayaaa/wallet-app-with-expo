@@ -36,7 +36,7 @@ DATABASE_URL=<your_neon_postgres_connection_url>
 REDIS_URL=<your_redis_connection_url>
 ```
 
-### ⚙️ Backend (`/backend`)
+### ⚙️ Mobile (`/mobile`)
 
 ```bash
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_clerk_key>
