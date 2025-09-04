@@ -1,13 +1,5 @@
 <h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
-
-## 🎯 What is it
-
-This isn't just a front-end app — it's a **complete mobile application** WALLET APP with backend integration, authentication, and cloud-based storage.
-
----
-
 ## 🧑‍🍳 App Features Overview
 
 - 🔐 **Authentication** with email verification using **Clerk**
